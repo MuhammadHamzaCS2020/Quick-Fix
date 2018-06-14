@@ -1,7 +1,8 @@
 # Uber_Application
 It is Uber type Application in Java. Get the Data from Client and Send to Manager and Manager assing Data to Customer Requird
 
-#Case Study:
+# Case Study
+
 Suppose you are part of a growing software house which is known for developing software for Uber-like
 startups. The marketing guys recently engaged a client who is interested to take his business to the next level
 by investing in a business information system. Below is the user story shared with the team:
