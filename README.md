@@ -1,5 +1,5 @@
-# Uber_Application
-It is Uber type Application in Java. Get the Data from Client and Send to Manager and Manager assing Data to Customer Requird
+# Quick Fix
+In this project we make publisher subscriber method where a client requests for a service to the manager like plumber, electrician and carpenter by using java swing and design patterns.
 
 # Case Study
 
